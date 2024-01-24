@@ -8,9 +8,9 @@ I have completed various projects to further my understanding. These include wor
 
 I have uploaded some of these projects to GitHub at the following repositories:
 
-Convolutional Neural Network for Landmark Identification: 
+**Convolutional Neural Network for Landmark Identification:** 
 [repo:](https://github.com/bencecsiba/Udacity-CNN)
 
-Fantasy Premier League Predictor: 
-[repo:] (https://github.com/bencecsiba/FPL-Predictor)
+**Fantasy Premier League Predictor:**
+[repo:](https://github.com/bencecsiba/FPL-Predictor)
 
