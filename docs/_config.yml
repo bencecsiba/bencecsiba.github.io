@@ -21,7 +21,7 @@
 title: Bence Csiba
 email: bencecsiba5@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  I am a physics graduate from the University of Bath, with a keen interest in Machine Learning. I will use this page to document my journey learning about Data Sciences and working on (hopefully) cool things.
+  I am a physics graduate from the University of Bath, with a keen interest in Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 #twitter_username: jekyllrb
