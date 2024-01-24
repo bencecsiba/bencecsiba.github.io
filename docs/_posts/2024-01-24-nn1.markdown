@@ -7,4 +7,4 @@ categories: jekyll update
 I have completed the first neural network implementation for trying to predict FPL points, with results in the graph below for the current season. 
 Whilst underwhelming, it is promising as it currently a simple fully connected model. I will adjust the input features and the layers I use in the next iteration
 
-(![NN Graph](../assets/nn1.png))
+![NN Graph](./assets/nn1.png)
