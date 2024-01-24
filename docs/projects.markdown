@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-I have completed various projects to further my understanding of machine learning techniques. These include working with the Met Office on predicting sea states using weather radar and working on a AI assistant for a wealth management company. 
+I have completed various projects to further my understanding of machine learning techniques. These include working with the Met Office on predicting sea states using weather radar and working on an AI assistant for a wealth management company. 
 
 I have uploaded some of these projects to GitHub at the following repositories:
 
