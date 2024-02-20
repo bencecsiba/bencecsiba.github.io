@@ -1,10 +1,10 @@
 ---
 layout: post
 title:  "Skin Lesion Classifier"
-date:   2024-01-24 16:01:51 +0000       
+date:   2024-02-19 16:01:51 +0000       
 categories: jekyll update
 ---
-This project is my attempt at the skin lesion challenge: [link](https://challenge2018.isic-archive.com)
+This project is my attempt at the skin lesion challenge: [link](https://challenge2018.isic-archive.com), [repo](https://github.com/bencecsiba/lesion-classifier/tree/main)
 
 The dataset is located [here](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DBW86T)
 
