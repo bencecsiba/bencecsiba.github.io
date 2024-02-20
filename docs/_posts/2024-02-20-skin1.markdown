@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Transfer Learning for Skin Lesion Classification"
-date:   2024-01-24 16:01:51 +0000
+date:   2024-02-20 16:01:51 +0000
 categories: jekyll update
 ---
 This project is my attempt at the skin lesion challenge: [link](https://challenge2018.isic-archive.com)
