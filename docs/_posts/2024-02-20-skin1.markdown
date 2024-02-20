@@ -12,4 +12,4 @@ To date, I have utilised transfer learning from Resnet18, with my biggest challe
 
 My highest accuracy score currently stands at 55%
 
-My next steps will involve utilising the other data included as part of the challenge, including the metadata, as well as utilising different base models. 
+My next steps will involve utilising the other data included as part of the challenge, including the metadata, as well as utilising different base models.
