@@ -11,3 +11,5 @@ The dataset is located [here](https://dataverse.harvard.edu/dataset.xhtml?persis
 To date, I have utilised transfer learning from Resnet18, with my biggest challenge coming from a very imbalanced dataset, a problem that I am currently trying to address using the [imbalanced data sampler](https://github.com/ufoym/imbalanced-dataset-sampler)
 
 My highest accuracy score currently stands at 55%
+
+My next steps will involve utilising the other data included as part of the challenge, including the metadata, as well as utilising different base models. 
