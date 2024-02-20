@@ -8,6 +8,9 @@ I have completed various projects to further my understanding of machine learnin
 
 I have uploaded some of these projects to GitHub at the following repositories:
 
+**Skin Lesion Classification:**
+[repo](https://github.com/bencecsiba/lesion-classifier/tree/main)
+
 **Fantasy Premier League Predictor:**
 [repo](https://github.com/bencecsiba/FPL-Predictor)
 
