@@ -5,7 +5,6 @@ date:   2024-02-10 17:35:51 +0000
 categories: jekyll update
 ---
 
-
 One of the most challenging aspects of testing the performance of my models is calculating the best combination of players for any given gameweek. 
 This is a result of the many parameters which, whilst restricting the search space, make optimising this process particuarly difficult. 
 
