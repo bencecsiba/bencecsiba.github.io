@@ -7,21 +7,20 @@ categories: jekyll update
 Another approach to the FPL predictor project that I am currently working on has been to use the Autogluon package. The table below shows the test scores
 for various models tried by AutoGluon, with the best overall performance coming from the weighted ensemble.
 
-| Model               |   RMSE |
-|:--------------------|-----------------:|
-| NeuralNetFastAI     |        0.141883  |
-| LightGBM            |        0.042974  |
-| LightGBMLarge       |        0.042861  |
-| XGBoost             |        0.0358369 |
-| **WeightedEnsemble_L2** |        **1.17335**   |
-| LightGBMXT          |        0.955469  |
-| ExtraTreesMSE       |        0.170214  |
-| RandomForestMSE     |        0.195836  |
-| NeuralNetTorch      |        0.0555069 |
-| KNeighborsUnif      |        0.846408  |
-| KNeighborsDist      |        0.977883  | 
-
-The image below shows the models that make up this particular weighted ensemble. Interestingly, it uses three models that weren't the best performing models individually. 
+| Model               |   Validation Score |
+|:--------------------|------------:|
+| NeuralNetFastAI     |    -2.61968 |
+| LightGBM            |    -2.60456 |
+| LightGBMLarge       |    -2.58797 |
+| XGBoost             |    -2.61013 |
+| **WeightedEnsemble_L2** |    **-2.56407** |
+| LightGBMXT          |    -2.58705 |
+| ExtraTreesMSE       |    -2.59106 |
+| RandomForestMSE     |    -2.63888 |
+| NeuralNetTorch      |    -2.73893 |
+| KNeighborsUnif      |    -3.02923 |
+| KNeighborsDist      |    -3.06765 |
+The image below shows the models that make up this particular weighted ensemble. It uses a combination of just the three best scoring models to produce a slightly better one. 
 
 ![AutoGluon_Ensemble](/assets/ensemble_model.png)
 
