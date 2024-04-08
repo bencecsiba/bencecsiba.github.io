@@ -20,6 +20,7 @@ for various models tried by AutoGluon, with the best overall performance coming 
 | NeuralNetTorch      |    -2.73893 |
 | KNeighborsUnif      |    -3.02923 |
 | KNeighborsDist      |    -3.06765 |
+
 The image below shows the models that make up this particular weighted ensemble. It uses a combination of just the three best scoring models to produce a slightly better one. 
 
 ![AutoGluon_Ensemble](/assets/ensemble_model.png)
