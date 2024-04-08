@@ -26,7 +26,7 @@ The image below shows the models that make up this particular weighted ensemble.
 ![AutoGluon_Ensemble](/assets/ensemble_model.png)
 
 When testing the other models that I have built thus far, the AutoGluon model does not perform particuarly well, although better than the simple random forest, as expected. 
-The results are displayed in the table below.
+The results are displayed in the table below, comparing the performances of the models to players of the FPL game.
 
 |               |  Mean Fraction of Top Score |   Mean Fraction of Average Score |
 |:--------------|-----------------:|-----------------:|
