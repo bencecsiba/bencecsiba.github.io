@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "Skin Lesion Classifier"
+title:  "Brain Tumour Segmentation"
 date:   2024-04-18 16:01:51 +0000       
 categories: jekyll update
 ---
-I have recently begun working on a Brain tumour segmentation task, the data for which can be found here.
+I have recently begun working on a Brain tumour segmentation task, the data for which can be found [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data). My repo can be found [here](https://github.com/bencecsiba/Brain-Tumour-Segmentation).
 
 Having researched the topic, I have decided to implement a U-net architecture, as it has been shown to work well on Biomedical data, due to its contracting and expanding layers joined together by skip connections. 
 
