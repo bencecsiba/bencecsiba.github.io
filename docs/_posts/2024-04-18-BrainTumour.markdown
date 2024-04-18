@@ -4,11 +4,11 @@ title:  "Brain Tumour Segmentation"
 date:   2024-04-18 16:01:51 +0000       
 categories: jekyll update
 ---
-I have recently begun working on a Brain tumour segmentation task, the data for which can be found [here](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset/data). My repo can be found [here](https://github.com/bencecsiba/Brain-Tumour-Segmentation).
+I have recently begun working on a Brain tumour segmentation task, the data for which can be found [here](https://www.kaggle.com/datasets/mateuszbuda/lgg-mri-segmentation). My repo can be found [here](https://github.com/bencecsiba/Brain-Tumour-Segmentation).
 
 Having researched the topic, I have decided to implement a U-net architecture, as it has been shown to work well on Biomedical data, due to its contracting and expanding layers joined together by skip connections. 
 
-The relatively small dataset that I am working with (images), as well as computational limitations, have led me to decide that I will initially focus on scans with non-empty masks. The below pie chart shows that these make up less than half of the dataset, meaning data augmentation techniques were of paramount importance to stop overfitting. As such, I chose to randomly flip training images and their masks either horizontally or vertically (or both).
+The relatively small dataset that I am working with (3929 .tif MRI scans and their respective masks), as well as computational limitations, have led me to decide that I will initially focus on scans with non-empty masks. The below pie chart shows that these make up less than half of the dataset, meaning data augmentation techniques were of paramount importance to stop overfitting. As such, I chose to randomly flip training images and their masks either horizontally or vertically (or both).
 
 ![PieChart](/assets/ScanDist.png)
 
