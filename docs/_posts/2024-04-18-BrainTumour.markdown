@@ -18,5 +18,5 @@ Overall, this worked very effectively, with the test images below highlighting t
 
 My next step shall be to train a classifier, determining whether or not a scan contains a tumour and only passing it through the above model if the scan is classified as having a tumour. As ever, the performance of the model could be significantly improved with more training examples, although more computing power would almost certainly be necessary to avoid extreme training times. 
 
-Another interesting step to take would be to introduce metadata about the scans which could improve the performance of the classifier especially. This could be introduced before the 
+Another interesting step to take would be to introduce metadata about the scans which could improve the performance of the classifier especially. This exrtra information could be introduced before the output layer.
 
