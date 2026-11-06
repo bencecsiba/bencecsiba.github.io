@@ -4,6 +4,6 @@ title: About
 permalink: /about/
 ---
 
-I am a physics graduate from the University of Bath, with a keen interest in Machine Learning. I will use this page to document my journey learning about Data Sciences and working on (hopefully) interesting things.
+I am an AI engineer with a background in computer vision for Medical Imaging.
 
 You can find my resume [here](/assets/Bence_Csiba_resume.pdf)
